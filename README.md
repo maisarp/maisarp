@@ -1,6 +1,8 @@
-<img src="https://raw.githubusercontent.com/maisarp/maisarp/refs/heads/main/maisa-1.png" alt="ilustração de um computador" width="350" align="left">
 
-<h1 align="left">Oi! Eu sou a Maisa 👩🏻‍💻</h1>
+
+<h1 align="center">Oi! Eu sou a Maisa 👩🏻‍💻</h1>
+
+<img src="https://raw.githubusercontent.com/maisarp/maisarp/refs/heads/main/maisa-1.png" alt="ilustração de um computador" width="350" align="left"><br><br>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas e estagiária em Engenharia de Software na B3.​
 
@@ -10,7 +12,7 @@
 
 ---
 
-<h1 align="center">🛠️ Tecnologias e Ferramentas</h1>
+<h1 align="center">🛠️ Tecnologias e Ferramentas</h1><br>
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
