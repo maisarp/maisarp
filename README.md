@@ -12,7 +12,7 @@
 
 ---
 
-<h1 align="center">🛠️ Tecnologias e Ferramentas</h1><br>
+<h2 align="left">🛠️ Tecnologias e Ferramentas</h2><br>
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,10 +25,19 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
+<h2 align="center">📈 Estatísticas do GitHub</h2>
 
-![Estatísticas da Maisa](https://github-readme-stats.vercel.app/api?username=maisarp&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/maisarp">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maisarp&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisarp&layout=compact&langs_count=7&theme=radical" />
+  </a>
+</div>
 
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maisarp-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maisa-pires-615839120/)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
