@@ -37,6 +37,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maisarp-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maisa-pires-615839120/)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
+
