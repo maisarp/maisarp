@@ -2,7 +2,7 @@
 
 <h1 align="center">Oi! Eu sou a Maisa 👩🏻‍💻</h1>
 
-<img src="https://raw.githubusercontent.com/maisarp/maisarp/refs/heads/main/maisa-1.png" alt="ilustração de um computador" width="350" align="left"><br><br>
+<img src="https://raw.githubusercontent.com/maisarp/maisarp/refs/heads/main/maisa-1.png" alt="ilustração de um computador" width="350" align="left">
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas e estagiária em Engenharia de Software na B3.​
 
