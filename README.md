@@ -36,15 +36,6 @@
 
 ---
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maisarp&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisarp&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maisarp-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maisa-pires-615839120/)
